@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="com.dyuproject.protostuff:protostuff-core:1.0.7" type="repository">
+    <properties maven-id="com.dyuproject.protostuff:protostuff-core:1.0.7" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../config/apache-maven-3.6.1/protostuff-core-1.0.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../config/apache-maven-3.6.1/protostuff-api-1.0.7.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
